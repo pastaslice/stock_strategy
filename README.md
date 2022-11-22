@@ -8,7 +8,7 @@ how to earn money on stocks only buying- be on market in uptrend, be off market 
 
 taking only stock price only from 2011 - cdpr
 
-looking at highest and lowest - open and close are only because of business hours
+looking at highest and lowest - open and close are only because of business hours (or avarege of highest/lowest)
 
 how to estate trend : 
 -avareges lines, 
@@ -19,6 +19,8 @@ how to estate trend :
 checking correlations:
 -volume
 -standard deviation from avarage price and highest and lowest point
+- pace of rising price
+
 
 
 
